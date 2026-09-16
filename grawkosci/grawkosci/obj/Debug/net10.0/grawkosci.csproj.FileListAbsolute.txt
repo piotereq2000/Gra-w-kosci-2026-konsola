@@ -1,0 +1,14 @@
+C:\Users\pjakobowski\source\repos\grawkosci\grawkosci\bin\Debug\net10.0\grawkosci.exe
+C:\Users\pjakobowski\source\repos\grawkosci\grawkosci\bin\Debug\net10.0\grawkosci.deps.json
+C:\Users\pjakobowski\source\repos\grawkosci\grawkosci\bin\Debug\net10.0\grawkosci.runtimeconfig.json
+C:\Users\pjakobowski\source\repos\grawkosci\grawkosci\bin\Debug\net10.0\grawkosci.dll
+C:\Users\pjakobowski\source\repos\grawkosci\grawkosci\bin\Debug\net10.0\grawkosci.pdb
+C:\Users\pjakobowski\source\repos\grawkosci\grawkosci\obj\Debug\net10.0\grawkosci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pjakobowski\source\repos\grawkosci\grawkosci\obj\Debug\net10.0\grawkosci.AssemblyInfoInputs.cache
+C:\Users\pjakobowski\source\repos\grawkosci\grawkosci\obj\Debug\net10.0\grawkosci.AssemblyInfo.cs
+C:\Users\pjakobowski\source\repos\grawkosci\grawkosci\obj\Debug\net10.0\grawkosci.csproj.CoreCompileInputs.cache
+C:\Users\pjakobowski\source\repos\grawkosci\grawkosci\obj\Debug\net10.0\grawkosci.dll
+C:\Users\pjakobowski\source\repos\grawkosci\grawkosci\obj\Debug\net10.0\refint\grawkosci.dll
+C:\Users\pjakobowski\source\repos\grawkosci\grawkosci\obj\Debug\net10.0\grawkosci.pdb
+C:\Users\pjakobowski\source\repos\grawkosci\grawkosci\obj\Debug\net10.0\grawkosci.genruntimeconfig.cache
+C:\Users\pjakobowski\source\repos\grawkosci\grawkosci\obj\Debug\net10.0\ref\grawkosci.dll
